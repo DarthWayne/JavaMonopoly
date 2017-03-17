@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>20</id>
+	<name>Berliner Strasse</name>
+	<typ>Strasse</typ>
+	<farbe>Orange</farbe>
+	<kaufpreis>4000</kaufpreis>
+	<hypothekenwert>2000</hypothekenwert>
+	<hauspreis>2000</hauspreis>
+	<hotelpreis>2000</hotelpreis>
+	<miete0>320</miete0>
+	<miete1>1600</miete1>
+	<miete2>4400</miete2>
+	<miete3>12000</miete3>
+	<miete4>16000</miete4>
+	<miete5>20000</miete5>
+</eigenschaften>

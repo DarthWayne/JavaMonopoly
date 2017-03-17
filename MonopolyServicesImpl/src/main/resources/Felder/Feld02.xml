@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>2</id>
+	<name>Badstraße</name>
+	<typ>Strasse</typ>
+	<farbe>Dunkellila</farbe>
+	<kaufpreis>1200</kaufpreis>
+	<hypothekenwert>600</hypothekenwert>
+	<hauspreis>1000</hauspreis>
+	<hotelpreis>1000</hotelpreis>
+	<miete0>40</miete0>
+	<miete1>200</miete1>
+	<miete2>600</miete2>
+	<miete3>1800</miete3>
+	<miete4>3200</miete4>
+	<miete5>5000</miete5>
+</eigenschaften>

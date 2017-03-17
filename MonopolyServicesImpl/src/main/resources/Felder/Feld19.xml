@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>19</id>
+	<name>Wiener Strasse</name>
+	<typ>Strasse</typ>
+	<farbe>Orange</farbe>
+	<kaufpreis>3600</kaufpreis>
+	<hypothekenwert>1800</hypothekenwert>
+	<hauspreis>2000</hauspreis>
+	<hotelpreis>2000</hotelpreis>
+	<miete0>280</miete0>
+	<miete1>1400</miete1>
+	<miete2>4000</miete2>
+	<miete3>11000</miete3>
+	<miete4>15000</miete4>
+	<miete5>19000</miete5>
+</eigenschaften>

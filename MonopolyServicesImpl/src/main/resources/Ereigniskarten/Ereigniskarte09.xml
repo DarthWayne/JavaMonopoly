@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>9</id>
+	<text>Gehe zurück zur Badstrasse.</text>
+	<zielfeld>2</zielfeld>
+	<richtung>rueckwaerts</richtung>
+	<geld>0</geld>
+	<empfaenger>keiner</empfaenger>
+	<sondereffekt>keiner</sondereffekt>
+</eigenschaften>

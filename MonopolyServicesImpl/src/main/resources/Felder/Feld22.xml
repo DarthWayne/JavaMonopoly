@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>22</id>
+	<name>Theaterstrasse</name>
+	<typ>Strasse</typ>
+	<farbe>Rot</farbe>
+	<kaufpreis>4400</kaufpreis>
+	<hypothekenwert>2200</hypothekenwert>
+	<hauspreis>3000</hauspreis>
+	<hotelpreis>3000</hotelpreis>
+	<miete0>360</miete0>
+	<miete1>1800</miete1>
+	<miete2>5000</miete2>
+	<miete3>14000</miete3>
+	<miete4>17500</miete4>
+	<miete5>21000</miete5>
+</eigenschaften>

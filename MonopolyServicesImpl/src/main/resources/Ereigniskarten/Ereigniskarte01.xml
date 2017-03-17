@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>1</id>
+	<text>Gehe ins Gefängnis. Begieb dich direkt dorthin. Gehe nicht über los. Ziehe nicht 4000€ ein.</text>
+	<zielfeld>11</zielfeld>
+	<richtung>direkt</richtung>
+	<geld>0</geld>
+	<empfaenger>Spieler</empfaenger>
+	<sondereffekt>keiner</sondereffekt>
+</eigenschaften>

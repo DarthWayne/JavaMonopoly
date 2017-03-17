@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>12</id>
+	<name>Seestraße</name>
+	<typ>Strasse</typ>
+	<farbe>Lila</farbe>
+	<kaufpreis>2800</kaufpreis>
+	<hypothekenwert>1400</hypothekenwert>
+	<hauspreis>2000</hauspreis>
+	<hotelpreis>2000</hotelpreis>
+	<miete0>200</miete0>
+	<miete1>1000</miete1>
+	<miete2>3000</miete2>
+	<miete3>9000</miete3>
+	<miete4>12500</miete4>
+	<miete5>15000</miete5>
+</eigenschaften>

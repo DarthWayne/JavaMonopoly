@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>4</id>
+	<name>Turmstraße</name>
+	<typ>Strasse</typ>
+	<farbe>Dunkellila</farbe>
+	<kaufpreis>1200</kaufpreis>
+	<hypothekenwert>600</hypothekenwert>
+	<hauspreis>1000</hauspreis>
+	<hotelpreis>1000</hotelpreis>
+	<miete0>80</miete0>
+	<miete1>400</miete1>
+	<miete2>1200</miete2>
+	<miete3>3600</miete3>
+	<miete4>6400</miete4>
+	<miete5>9000</miete5>
+</eigenschaften>

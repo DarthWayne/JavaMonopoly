@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>7</id>
+	<name>Chausseestrasse</name>
+	<typ>Strasse</typ>
+	<farbe>Hellblau</farbe>
+	<kaufpreis>2000</kaufpreis>
+	<hypothekenwert>1000</hypothekenwert>
+	<hauspreis>1000</hauspreis>
+	<hotelpreis>1000</hotelpreis>
+	<miete0>120</miete0>
+	<miete1>600</miete1>
+	<miete2>1800</miete2>
+	<miete3>5400</miete3>
+	<miete4>8000</miete4>
+	<miete5>1100</miete5>
+</eigenschaften>

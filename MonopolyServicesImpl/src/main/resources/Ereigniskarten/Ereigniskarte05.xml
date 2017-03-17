@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>5</id>
+	<text>Rücke bis auf LOS vor.</text>
+	<zielfeld>1</zielfeld>
+	<richtung>vorwaerts</richtung>
+	<geld>0</geld>
+	<empfaenger>keiner</empfaenger>
+	<sondereffekt>keiner</sondereffekt>
+</eigenschaften>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>10</id>
+	<name>Poststraße</name>
+	<typ>Strasse</typ>
+	<farbe>Hellblau</farbe>
+	<kaufpreis>2400</kaufpreis>
+	<hypothekenwert>1200</hypothekenwert>
+	<hauspreis>1000</hauspreis>
+	<hotelpreis>1000</hotelpreis>
+	<miete0>160</miete0>
+	<miete1>800</miete1>
+	<miete2>2000</miete2>
+	<miete3>6000</miete3>
+	<miete4>9000</miete4>
+	<miete5>12000</miete5>
+</eigenschaften>

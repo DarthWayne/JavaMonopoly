@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>2</id>
+	<text>Du wurdest zum Vorstand gewählt. Zahle jedem Spieler 1000€.</text>
+	<zielfeld>0</zielfeld>
+	<richtung>keine</richtung>
+	<geld>1000</geld>
+	<empfaenger>AlleSpieler</empfaenger>
+	<sondereffekt>keiner</sondereffekt>
+</eigenschaften>

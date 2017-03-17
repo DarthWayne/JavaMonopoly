@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>6</id>
+	<text>Rücke vor bis zur Schlossallee.</text>
+	<zielfeld>40</zielfeld>
+	<richtung>vorwaerts</richtung>
+	<geld>0</geld>
+	<empfaenger>keiner</empfaenger>
+	<sondereffekt>keiner</sondereffekt>
+</eigenschaften>

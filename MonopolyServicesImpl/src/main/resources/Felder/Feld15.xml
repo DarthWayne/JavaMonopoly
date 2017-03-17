@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>15</id>
+	<name>Neue Strasse</name>
+	<typ>Strasse</typ>
+	<farbe>Lila</farbe>
+	<kaufpreis>3200</kaufpreis>
+	<hypothekenwert>1600</hypothekenwert>
+	<hauspreis>2000</hauspreis>
+	<hotelpreis>2000</hotelpreis>
+	<miete0>240</miete0>
+	<miete1>1200</miete1>
+	<miete2>3600</miete2>
+	<miete3>10000</miete3>
+	<miete4>14000</miete4>
+	<miete5>18000</miete5>
+</eigenschaften>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>26</id>
+	<name>Süd- Bahnhof</name>
+	<typ>Bahnhof</typ>
+	<farbe>Weiss</farbe>
+	<kaufpreis>4000</kaufpreis>
+	<hypothekenwert>2000</hypothekenwert>
+	<hauspreis>0</hauspreis>
+	<hotelpreis>0</hotelpreis>
+	<miete0>500</miete0>
+	<miete1>1000</miete1>
+	<miete2>2000</miete2>
+	<miete3>4000</miete3>
+	<miete4>0</miete4>
+	<miete5>0</miete5>
+</eigenschaften>

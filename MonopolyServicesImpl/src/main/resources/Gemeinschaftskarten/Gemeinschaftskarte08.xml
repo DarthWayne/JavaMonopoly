@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>1</id>
+	<text>Betrunken im Dienst. Zahle 400 €.</text>
+	<zielfeld>0</zielfeld>
+	<richtung>keine</richtung>
+	<geld>400</geld>
+	<empfaenger>Bank</empfaenger>
+	<sondereffekt>keiner</sondereffekt>
+</eigenschaften>

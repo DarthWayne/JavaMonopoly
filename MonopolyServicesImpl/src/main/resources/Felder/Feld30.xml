@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>27</id>
+	<name>Schillerstrasse</name>
+	<typ>Strasse</typ>
+	<farbe>Gelb</farbe>
+	<kaufpreis>5200</kaufpreis>
+	<hypothekenwert>2600</hypothekenwert>
+	<hauspreis>3000</hauspreis>
+	<hotelpreis>3000</hotelpreis>
+	<miete0>480</miete0>
+	<miete1>2200</miete1>
+	<miete2>6600</miete2>
+	<miete3>16000</miete3>
+	<miete4>19500</miete4>
+	<miete5>23000</miete5>
+</eigenschaften>

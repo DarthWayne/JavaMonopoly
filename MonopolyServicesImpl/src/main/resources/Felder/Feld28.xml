@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>28</id>
+	<name>Goethestrasse</name>
+	<typ>Strasse</typ>
+	<farbe>Gelb</farbe>
+	<kaufpreis>5600</kaufpreis>
+	<hypothekenwert>2800</hypothekenwert>
+	<hauspreis>3000</hauspreis>
+	<hotelpreis>3000</hotelpreis>
+	<miete0>580</miete0>
+	<miete1>2400</miete1>
+	<miete2>7200</miete2>
+	<miete3>17000</miete3>
+	<miete4>20500</miete4>
+	<miete5>24000</miete5>
+</eigenschaften>

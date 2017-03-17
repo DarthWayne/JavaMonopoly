@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>35</id>
+	<name>Bahnhofstrasse</name>
+	<typ>Strasse</typ>
+	<farbe>Gruen</farbe>
+	<kaufpreis>6400</kaufpreis>
+	<hypothekenwert>3200</hypothekenwert>
+	<hauspreis>4000</hauspreis>
+	<hotelpreis>4000</hotelpreis>
+	<miete0>560</miete0>
+	<miete1>3000</miete1>
+	<miete2>9000</miete2>
+	<miete3>20000</miete3>
+	<miete4>24000</miete4>
+	<miete5>28000</miete5>
+</eigenschaften>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>38</id>
+	<name>Parkstraße</name>
+	<typ>Strasse</typ>
+	<farbe>Dunkelblau</farbe>
+	<kaufpreis>7000</kaufpreis>
+	<hypothekenwert>3500</hypothekenwert>
+	<hauspreis>4000</hauspreis>
+	<hotelpreis>4000</hotelpreis>
+	<miete0>700</miete0>
+	<miete1>3500</miete1>
+	<miete2>10000</miete2>
+	<miete3>22000</miete3>
+	<miete4>26000</miete4>
+	<miete5>30000</miete5>
+</eigenschaften>

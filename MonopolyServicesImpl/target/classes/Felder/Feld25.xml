@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>25</id>
+	<name>Opernplatz</name>
+	<typ>Strasse</typ>
+	<farbe>Rot</farbe>
+	<kaufpreis>4800</kaufpreis>
+	<hypothekenwert>2400</hypothekenwert>
+	<hauspreis>3000</hauspreis>
+	<hotelpreis>3000</hotelpreis>
+	<miete0>400</miete0>
+	<miete1>2000</miete1>
+	<miete2>6000</miete2>
+	<miete3>15000</miete3>
+	<miete4>18500</miete4>
+	<miete5>22000</miete5>
+</eigenschaften>

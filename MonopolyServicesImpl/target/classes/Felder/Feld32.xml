@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>32</id>
+	<name>Rathausplatz</name>
+	<typ>Strasse</typ>
+	<farbe>Gruen</farbe>
+	<kaufpreis>6000</kaufpreis>
+	<hypothekenwert>3000</hypothekenwert>
+	<hauspreis>4000</hauspreis>
+	<hotelpreis>4000</hotelpreis>
+	<miete0>520</miete0>
+	<miete1>2600</miete1>
+	<miete2>7500</miete2>
+	<miete3>18000</miete3>
+	<miete4>22000</miete4>
+	<miete5>25500</miete5>
+</eigenschaften>

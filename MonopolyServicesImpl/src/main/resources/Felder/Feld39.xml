@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>39</id>
+	<name>Zusatzsteuer</name>
+	<typ>Steuer</typ>
+	<farbe>Weiss</farbe>
+	<kaufpreis>0</kaufpreis>
+	<hypothekenwert>0</hypothekenwert>
+	<hauspreis>0</hauspreis>
+	<hotelpreis>0</hotelpreis>
+	<miete0>0</miete0>
+	<miete1>0</miete1>
+	<miete2>0</miete2>
+	<miete3>0</miete3>
+	<miete4>0</miete4>
+	<miete5>0</miete5>
+</eigenschaften>

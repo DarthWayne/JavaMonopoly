@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>1</id>
+	<text>Zahle Schulgeld 3000 €.</text>
+	<zielfeld>0</zielfeld>
+	<richtung>keine</richtung>
+	<geld>3000</geld>
+	<empfaenger>Bank</empfaenger>
+	<sondereffekt>keiner</sondereffekt>
+</eigenschaften>

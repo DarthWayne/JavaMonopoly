@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>1</id>
+	<text>Du erbst 2000 €.</text>
+	<zielfeld>0</zielfeld>
+	<richtung>keine</richtung>
+	<geld>2000</geld>
+	<empfaenger>Spieler</empfaenger>
+	<sondereffekt>keiner</sondereffekt>
+</eigenschaften>

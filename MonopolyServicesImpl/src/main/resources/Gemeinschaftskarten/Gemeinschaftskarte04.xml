@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>1</id>
+	<text>Du hast den zweiten Preis in einem Schönheitswettbewerb gewonnen. Ziehe 200 € ein.</text>
+	<zielfeld>0</zielfeld>
+	<richtung>keine</richtung>
+	<geld>200</geld>
+	<empfaenger>Spieler</empfaenger>
+	<sondereffekt>keiner</sondereffekt>
+</eigenschaften>

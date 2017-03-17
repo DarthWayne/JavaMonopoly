@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>40</id>
+	<name>Schlossallee</name>
+	<typ>Strasse</typ>
+	<farbe>Dunkelblau</farbe>
+	<kaufpreis>8000</kaufpreis>
+	<hypothekenwert>4000</hypothekenwert>
+	<hauspreis>4000</hauspreis>
+	<hotelpreis>4000</hotelpreis>
+	<miete0>1000</miete0>
+	<miete1>4000</miete1>
+	<miete2>12000</miete2>
+	<miete3>28000</miete3>
+	<miete4>34000</miete4>
+	<miete5>40000</miete5>
+</eigenschaften>

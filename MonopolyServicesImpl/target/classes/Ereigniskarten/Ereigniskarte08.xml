@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eigenschaften>
+	<id>8</id>
+	<text>Rücke vor bis zum Opernplatz.</text>
+	<zielfeld>25</zielfeld>
+	<richtung>vorwaerts</richtung>
+	<geld>0</geld>
+	<empfaenger>keiner</empfaenger>
+	<sondereffekt>keiner</sondereffekt>
+</eigenschaften>
